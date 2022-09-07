@@ -93,6 +93,7 @@ module.exports = {
     "lodash/collection-ordering": "off",
     "lodash/prop-shorthand": "off",
     "lodash/prefer-constant": "off",
+    "lodash/prefer-noop": "off",
 
     // Enforce absolute imports to be first
     "import/order": [
