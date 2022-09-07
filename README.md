@@ -1,2 +1,3 @@
-# taito-eslint-config-react-native
-Shared eslint config for Taito's React Native apps
+# Taito ESlint config for React Native
+
+TODO
