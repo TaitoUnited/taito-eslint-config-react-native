@@ -87,7 +87,7 @@ module.exports = {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
 
-    "lodash/import-scope": "off",
+    "lodash/import-scope": "on",
     "lodash/prefer-lodash-method": "off",
     "lodash/prefer-lodash-typecheck": "off",
     "lodash/collection-ordering": "off",
